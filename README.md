@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ColaAlin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning at Coding Bootcamp Europe
 - 📫 You can reach me at colaalincristian@gmail.com
 - I'm motivated 🦾
 - I like cars 🚙 and animals 🐶
