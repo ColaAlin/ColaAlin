@@ -1,6 +1,4 @@
 
-No worries at all! Here's a revised version for a beginner:
-
 👋 Hi there! I'm Alin, a budding enthusiast exploring the wonders of coding! 🌟 My journey into the world of programming is just beginning, and I'm eager to soak up all the knowledge and experience I can get my hands on.
 
 💻 Currently, I'm diving into the exciting realms of web development with HTML, CSS and JavaScript. Every line of code I write feels like a step forward on this thrilling adventure.
